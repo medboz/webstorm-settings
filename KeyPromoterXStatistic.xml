@@ -169,6 +169,14 @@
           <Count>38</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'shipping-complete'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'shipping-complete'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'start env=development'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -215,6 +223,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'naver'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'shipping-complete'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'shipping-complete'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'start'">
