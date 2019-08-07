@@ -177,6 +177,14 @@
           <Count>46</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'function.js unit test: '">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'function.js unit test: '</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'naver'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
