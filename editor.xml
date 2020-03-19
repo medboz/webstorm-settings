@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="D2Coding" />
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="MesloLGLDZ Nerd Font Mono" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
